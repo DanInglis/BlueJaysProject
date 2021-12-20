@@ -18,6 +18,8 @@ https://bluejays.daninglis.com/
 Code is accessible at:
 https://github.com/DanInglis/BlueJaysProject
 
+Note: Initial load may take ~30 seconds. Subsequent queries will be substantially quicker.
+
 
 ### Spray Chart Tab
 This is the main function of the application.
